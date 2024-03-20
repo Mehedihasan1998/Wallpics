@@ -4,7 +4,7 @@
 - Followed the MVVM code structure.
 - See the picture according to category.
 - See the picture full screen.
-- Download the picture.
+- Download the picture by External Application (such as Chrome, Firefox).
 
 ## Overview
 ![1](https://github.com/Mehedihasan1998/Wallpics/assets/56060082/8f1d1571-6a7f-4a08-b947-dd97ee1af73b)
