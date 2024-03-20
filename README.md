@@ -1,6 +1,7 @@
 # Wallpics
 
 - Used Pixel API.
+- Followed the MVVM code structure.
 - See the picture according to category.
 - See the picture full screen.
 - Download the picture.
